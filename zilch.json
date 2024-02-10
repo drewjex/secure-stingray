@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Secure Stingray",
+  "avatar": "nIiIiqrbooyWaicaa",
+  "preferredColor": "cerulean",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
